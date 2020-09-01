@@ -1,8 +1,10 @@
 #+OPTIONS: ^:nil \n:t
 #+OPTIONS: toc:nil
+http://www.pandora.tv/view/dramado/59134805/#39226861_new
 
 * [[http://trans-idx.cdn.pandora.tv/flvorgx.pandora.tv/hd/_user/r/d/rdqcs8/57/20190910234220428lrovlqb8feq5c.flv?key1=32443632304431323635334632324530313730394332304442414237&key2=40C36D9F1B76C6804F5EEAA31BB432&ft=FC&class=normal&country=KR&pcode2=82721&px-bps=3050701&px-bufahead=10&cms=1&rand=93&px-time=1598975825&px-hash=002086bfe5251e13b75a49527a4eb386][01]]
 * [[http://trans-idx.cdn.pandora.tv/flvorgx.pandora.tv/hd/_user/r/d/rdqcs8/61/2019091023442651377fzo80edaxwx.flv?key1=34444544374435393130333532333630313730394432303430423931&key2=004D9245E8453F090FDE4201953271&ft=FC&class=normal&country=KR&pcode2=47151&px-bps=3050701&px-bufahead=10&cms=1&rand=42&px-time=1598976333&px-hash=4478f314a95834695fdcf8fe4c7b06d9][02]]
+* [[http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_code=T2012-0574&program_id=PS-2012158526-01-000&broadcast_complete_yn=Y&local_station_code=00][03]]
 * [[http://trans-idx.cdn.pandora.tv/flvorgx.pandora.tv/hd/_user/r/d/rdqcs8/84/20190910234905366ufgk0s263p08m.flv?key1=35393446313434393632383232334630313030393732303035334642&key2=7E675678544D625A766E0F4E586F00&ft=FC&class=normal&country=KR&pcode2=55335&px-bps=3050701&px-bufahead=10&cms=1&rand=78&px-time=1598977942&px-hash=4b9128bd68d255d539da8e2fff4d1062][04]]
 * [[http://trans-idx.cdn.pandora.tv/flvorgx.pandora.tv/hd/_user/r/d/rdqcs8/88/20190910235113163t9fylkerxg3ag.flv?key1=45383035323434393932393432333630314430394532303230364243&key2=7003AD4BAA48764E0CE44C0BAB0808&ft=FC&class=normal&country=KR&pcode2=38928&px-bps=3050701&px-bufahead=10&cms=1&rand=54&px-time=1598977980&px-hash=22db8f7735457acdbee5b65416de2c86][05]]
 * [[http://trans-idx.cdn.pandora.tv/flvorgx.pandora.tv/hd/_user/r/d/rdqcs8/90/20190910235320054cnd684gpkcv9b.flv?key1=36364233423032393033303632334430313030393332303146314143&key2=9020769503A220159833E0D27359E1&ft=FC&class=normal&country=KR&pcode2=30056&px-bps=3050701&px-bufahead=10&cms=1&rand=4&px-time=1598978028&px-hash=1148bed58bab231636855473a7c4c640][06]]
