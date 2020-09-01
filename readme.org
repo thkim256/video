@@ -1,0 +1,7 @@
+#+OPTIONS: ^:nil \n:t
+#+OPTIONS: toc:nil
+
+* Link
+#+ATTR_HTML: :target _blank
+[[http://trans-idx.cdn.pandora.tv/flvorgx.pandora.tv/hd/_user/r/d/rdqcs8/57/20190910234220428lrovlqb8feq5c.flv?key1=32443632304431323635334632324530313730394332304442414237&key2=40C36D9F1B76C6804F5EEAA31BB432&ft=FC&class=normal&country=KR&pcode2=82721&px-bps=3050701&px-bufahead=10&cms=1&rand=93&px-time=1598975825&px-hash=002086bfe5251e13b75a49527a4eb386][01]]
+[[http://trans-idx.cdn.pandora.tv/flvorgx.pandora.tv/hd/_user/r/d/rdqcs8/61/2019091023442651377fzo80edaxwx.flv?key1=34444544374435393130333532333630313730394432303430423931&key2=004D9245E8453F090FDE4201953271&ft=FC&class=normal&country=KR&pcode2=47151&px-bps=3050701&px-bufahead=10&cms=1&rand=42&px-time=1598976333&px-hash=4478f314a95834695fdcf8fe4c7b06d9][02]]
