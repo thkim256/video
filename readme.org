@@ -2,7 +2,7 @@
 #+OPTIONS: toc:nil
 http://www.pandora.tv/view/dramado/59134805/#39226861_new
 
-* [[http://trans-idx.cdn.pandora.tv/flvorgx.pandora.tv/hd/_user/r/d/rdqcs8/57/20190910234220428lrovlqb8feq5c.flv?key1=32443632304431323635334632324530313730394332304442414237&key2=40C36D9F1B76C6804F5EEAA31BB432&ft=FC&class=normal&country=KR&pcode2=82721&px-bps=3050701&px-bufahead=10&cms=1&rand=93&px-time=1598975825&px-hash=002086bfe5251e13b75a49527a4eb386][01]]
+* [[http://trans-idx.cdn.pandora.tv/flvorgx.pandora.tv/hd/_user/r/d/rdqcs8/57/20190910234220428lrovlqb8feq5c.flv?key1=31364633324630394431313031333830324630393832303746364432&key2=365A2E6D280C576A4B15675B5A2744&ft=FC&class=normal&country=KR&pcode2=16409&px-bps=3050701&px-bufahead=10&cms=1&rand=82&px-time=1599027302&px-hash=4f988dad0e1e10a193c4422c43e38cf1][01]]
 * [[http://trans-idx.cdn.pandora.tv/flvorgx.pandora.tv/hd/_user/r/d/rdqcs8/61/2019091023442651377fzo80edaxwx.flv?key1=34444544374435393130333532333630313730394432303430423931&key2=004D9245E8453F090FDE4201953271&ft=FC&class=normal&country=KR&pcode2=47151&px-bps=3050701&px-bufahead=10&cms=1&rand=42&px-time=1598976333&px-hash=4478f314a95834695fdcf8fe4c7b06d9][02]]
 * [[http://vod.kbs.co.kr/index.html?source=episode&sname=vod&stype=vod&program_code=T2012-0574&program_id=PS-2012158526-01-000&broadcast_complete_yn=Y&local_station_code=00][03]]
 * [[http://trans-idx.cdn.pandora.tv/flvorgx.pandora.tv/hd/_user/r/d/rdqcs8/84/20190910234905366ufgk0s263p08m.flv?key1=35393446313434393632383232334630313030393732303035334642&key2=7E675678544D625A766E0F4E586F00&ft=FC&class=normal&country=KR&pcode2=55335&px-bps=3050701&px-bufahead=10&cms=1&rand=78&px-time=1598977942&px-hash=4b9128bd68d255d539da8e2fff4d1062][04]]
